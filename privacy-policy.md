@@ -1,6 +1,6 @@
 # Privacy Policy for NYF
 
-Last updated: Saturday, March 16, 2024
+Last updated: Tuesday, June 11, 2025
 
 NYF ("us", "we", or "our") operates the Not Your Fan Chrome extension (the "Service").
 
