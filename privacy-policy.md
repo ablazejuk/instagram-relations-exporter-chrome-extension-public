@@ -1,8 +1,8 @@
-# Privacy Policy for IRE
+# Privacy Policy for NYF
 
 Last updated: Saturday, March 16, 2024
 
-IRE ("us", "we", or "our") operates the IRE Chrome extension (the "Service").
+NYF ("us", "we", or "our") operates the Not Your Fan Chrome extension (the "Service").
 
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data.
 
